@@ -3,7 +3,7 @@ Repositório simples com alguns atalhos úteis do Alfred.
 Have fun!!! 
 
 ## Open jira issue: 
-(link)[alfred://customsearch/search%20jira%20for%20%22%7Bquery%7D%22/jira/utf8/noplus/https://jira.greenmile.com/browse/{query}]
+[link](alfred://customsearch/search%20jira%20for%20%22%7Bquery%7D%22/jira/utf8/noplus/https://jira.greenmile.com/browse/{query})
 
 ## Open wiki greenmile
 link (alfred://customsearch/Search%20Wiki%20GM%20For%20%27%7Bquery%7D%27/wiki/utf8/plus/http://wiki.greenmile.com/dosearchsite.action?queryString={query})
