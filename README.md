@@ -45,3 +45,7 @@ alfred://customsearch/Create%20QR%20Code%20For%20%27%7Bquery%7D%27/qrcode/utf8/n
 ```
 alfred://customsearch/Create%20QR%20Code%20For%20GreenMile%20on%20%27%7Bquery%7D%27/qrcode%20gm/utf8/noplus/https://api.qrserver.com/v1/create-qr-code/?data=http%3A%2F%2F{query}.greenmile.com)
 ```
+
+## Query on Jira considering the Salesforce case number ql=case in crmRecords("{query}")
+
+```alfred://customsearch/Jira%20Salesforce%20For%20%7Bquery%7D/jirasf/utf8/%2B/https%3A%2F%2Fjira.greenmile.com%2Fissues%2F%3Fjql%3Dcase%20in%20crmRecords%28%22%7Bquery%7D%22%29```
