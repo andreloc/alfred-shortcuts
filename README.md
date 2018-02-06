@@ -31,9 +31,9 @@ alfred://customsearch/Search%20Salesforce%20for%20%27%7Bquery%7D%27/sf/utf8/nopl
 alfred://customsearch/Search%20Docs%20For%20%27%7Bquery%7D%27/docs/utf8/noplus/http://docs.greenmile.com/dosearchsite.action?queryString={query})
 ```
 
-## Open project in Githug greenmile
+## Open project in Github greenmile
 ```
-alfred://customsearch/Open%20Git%20Project%20%27%7Bquery%7D%27/git/utf8/noplus/https://github.com/greenmilellc-org/{query})
+alfred://customsearch/Open%20Git%20Project%20%27%7Bquery%7D%27/git/utf8/noplus/https://github.com/greenmilellc-org/{query}
 ```
 
 ## Create QR Code
@@ -44,6 +44,11 @@ alfred://customsearch/Create%20QR%20Code%20For%20%27%7Bquery%7D%27/qrcode/utf8/n
 ## Create QR Code For http://{query}.greenmile.com
 ```
 alfred://customsearch/Create%20QR%20Code%20For%20GreenMile%20on%20%27%7Bquery%7D%27/qrcode%20gm/utf8/noplus/https://api.qrserver.com/v1/create-qr-code/?data=http%3A%2F%2F{query}.greenmile.com)
+```
+
+## Search on Spotify app
+```
+alfred://customsearch/spotify%20search/spotify/utf8/nospace/Spotify%3A%20spotify%3Asearch%3A%7Bquery%7D
 ```
 
 ## Query on Jira considering the Salesforce case number ql=case in crmRecords("{query}")
